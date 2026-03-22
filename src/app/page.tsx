@@ -321,7 +321,7 @@ export default function Home() {
               >
                 <div className="w-16 h-16 md:w-20 md:h-20 mb-3 md:mb-5 relative">
                   <img
-                    src="/ALIP.jpg"
+                    src="/ALIF.jpg"
                     alt="Nabila"
                     className="w-full h-full object-cover rounded-full border-2 border-brand-gold shadow-md"
                   />
