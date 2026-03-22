@@ -321,7 +321,7 @@ export default function Home() {
               >
                 <div className="w-16 h-16 md:w-20 md:h-20 mb-3 md:mb-5 relative">
                   <img
-                    src="/ALIF.jpg"
+                    src="/ALIP.jpg"
                     alt="Nabila"
                     className="w-full h-full object-cover rounded-full border-2 border-brand-gold shadow-md"
                   />
@@ -654,7 +654,7 @@ export default function Home() {
               <div className="relative w-24 h-24 sm:w-28 sm:h-28 md:w-36 md:h-36 mb-2.5 md:mb-3 mx-auto z-10 hover:scale-105 transition-transform duration-300">
                 <div className="absolute inset-0 bg-brand-gold rounded-full blur-md opacity-40 animate-pulse-glow z-0"></div>
                 <img
-                  src="/ALIF.jpg"
+                  src="/ALIP.jpg"
                   alt="Nabila"
                   className="relative w-full h-full object-cover object-top rounded-full border-[3px] border-brand-primary ring-2 ring-brand-gold shadow-lg z-10 bg-white"
                 />
