@@ -263,7 +263,7 @@ export default function Home() {
         <div className="absolute bottom-8 md:bottom-12 w-full text-center z-10 opacity-80">
           <p className="text-[10px] md:text-xs font-bold tracking-[0.3em] text-brand-secondary uppercase">
             Developed By{" "}
-            <span className="text-brand-gold drop-shadow-sm">rann</span>
+            <span className="text-brand-gold drop-shadow-sm">nabss</span>
           </p>
         </div>
       </main>
@@ -322,7 +322,7 @@ export default function Home() {
                 <div className="w-16 h-16 md:w-20 md:h-20 mb-3 md:mb-5 relative">
                   <img
                     src="/ALIF.jpg"
-                    alt="Arann"
+                    alt="Nabila"
                     className="w-full h-full object-cover rounded-full border-2 border-brand-gold shadow-md"
                   />
                 </div>
@@ -330,7 +330,7 @@ export default function Home() {
                   Idul Fitri 1447 H
                 </h1>
                 <p className="text-[10px] md:text-xs font-bold text-brand-secondary tracking-widest uppercase text-center px-4">
-                  Arann
+                  Nabila
                 </p>
               </div>
               <div
@@ -655,13 +655,13 @@ export default function Home() {
                 <div className="absolute inset-0 bg-brand-gold rounded-full blur-md opacity-40 animate-pulse-glow z-0"></div>
                 <img
                   src="/ALIF.jpg"
-                  alt="Arann"
+                  alt="Nabila"
                   className="relative w-full h-full object-cover object-top rounded-full border-[3px] border-brand-primary ring-2 ring-brand-gold shadow-lg z-10 bg-white"
                 />
               </div>
 
               <h3 className="font-serif text-sm sm:text-base md:text-lg font-extrabold text-brand-primary mb-3.5 tracking-widest uppercase drop-shadow-sm text-center px-4">
-                ARANN
+                NABILA
               </h3>
 
               <div className="bg-brand-primary text-white px-5 py-1.5 md:py-2 rounded-full mb-3 md:mb-4 shadow-xl border border-brand-gold transform -skew-x-12 hover:-translate-y-1 transition-all">

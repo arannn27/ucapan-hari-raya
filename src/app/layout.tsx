@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Idul Fitri - Arann",
-  description: "Kartu Ucapan Idul Fitri dari Arann",
+  title: "Idul Fitri - Nabila",
+  description: "Kartu Ucapan Idul Fitri dari Nabila",
 };
 
 export default function RootLayout({
